@@ -1,0 +1,6 @@
+sequence_id,chain_status,donor_sample,isotype_status,productivity,clone_size,variable_gene,cdr_h3_length,median_shm_rate
+seq_1,single pair,Mouse01,IgA,TRUE,5,IGHV1,12,4
+seq_2,single chain,Mouse02,IgG,FALSE,3,IGHV3,15,10
+seq_3,extra pair,Mouse03,IgM,TRUE,8,IGKV1,9,2
+seq_4,single pair,Mouse01,IgA,TRUE,6,IGHV3,13,6
+seq_5,single chain,Mouse02,IgG,FALSE,2,IGKV1,11,14
